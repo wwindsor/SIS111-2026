@@ -20,3 +20,14 @@ Errores
 En tiempo de compilacion
 En tiempo de ejecucion ----> validacion if, else elif
 Interprete antes de la compilacion y ejecucion
+
+Operadores logicos
+< Menor
+> Mayor
+== Igual
+=== Igual
+!= diferente
+
+2 != 2   true o false
+
+56 < 8   true o false
