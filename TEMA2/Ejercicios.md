@@ -12,3 +12,12 @@ Entradas            Salida
 20                   Menor: 20 Mayor: 80
 70
 80
+
+2.- Elaborar un algoritmo generando numeros aleatorios en un rango de 1..100 una cantidad n donde muestre en ese rango de numeros aleatorios los pares e impares
+
+Entrada            Salida
+5                  Pares: 2, 8
+                   Impares: 1, 7, 9
+
+2                  Pares: 2, 4
+                   Impares: 
