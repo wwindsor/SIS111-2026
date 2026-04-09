@@ -24,9 +24,11 @@ Interprete antes de la compilacion y ejecucion
 Operadores logicos
 < Menor
 > Mayor
+<= Menor igual que
+>= Mayor igual que
 == Igual
-=== Igual
-!= diferente
+=== Igual Congruente
+!= diferente 
 
 2 != 2   true o false
 
