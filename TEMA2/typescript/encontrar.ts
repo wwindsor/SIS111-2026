@@ -19,6 +19,9 @@ function buscar(x: number, limite: number){
     for (let element of aleatorios) {
         if(element==x) coin+=1;
     }        
+
+    //aleatorios.forEach(element => {if(element==x) coin+=1; });
+
     return {"mensaje":`Numero de coincidencias para ${x} es de: ${coin}`, "resultado":aleatorios} 
 }
     
