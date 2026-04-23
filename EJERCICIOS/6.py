@@ -15,7 +15,10 @@ de la siguiente manera:
 de la siguiente manera:
     Examen: 85%, promedio de las practicas: 15% y se pidieron
     un total de 2 practicas
+Ejemplo de diccionario = {"asignatura":"hola","examen":10,"practica1":50,"practica2":60}
 """
+
+
 
 def ingresarDatos():
     asignaturas=("Programacion","Algebra Lineal","Ing de Sistemas")
