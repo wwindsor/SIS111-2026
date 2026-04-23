@@ -8,4 +8,3 @@
 #El programa debe mostrar el resultado correspondiente y volver a mostrar el menu hasta que
 #El usuario elija la opcion 5 de salir.
 #si el usuario elige una opcion invalida, el programa debe mostrar un mensaje de error.
-
