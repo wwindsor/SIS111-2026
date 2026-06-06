@@ -1,6 +1,6 @@
 def buscar_material(materiales, codigo):
     for material in materiales:
-        if materia["codigo"] == codigo:
+        if material["codigo"] == codigo:
             return material
     return None
 def leer_numero(mensaje):
@@ -25,7 +25,7 @@ def actualizar_cantidad(materiales):
         nueva_cantidad = leer_numero("Ingrese la nueva cantidad")
         material["cantidad"] = nueva_cantidad
         print("Cantidad Actualizada correctamente")
-        
+
 def resumen_por_categoria(materiales):
     resumen = {}
     for material in materiales:
